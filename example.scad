@@ -1,2 +1,2 @@
-include <ospm_fence.scad>
+include <index.scad>
 Fence();
